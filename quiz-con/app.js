@@ -4,7 +4,7 @@ import { leftDiv } from "./info.js"
 
 const dataOne = {
     title:      "SOLO LEVELING",
-    para:       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum, minus maiores! Incidunt, voluptate velit libero saepe maxime perspiciatis enim et illo possimus deserunt hic adipisci dolor at repudiandae! Ad, cumque.",
+    para:       "Solo Leveling (나 혼자만 레벨업) is a Korean web novel written by Chu-Gong (추공). It was first serialized by Papyrus on November 4, 2016 and ended with 14 volumes and 270 chapters. On April 13, 2018, a webtoon serialization was released on KakaoPage, drawn by artists Gi So-Ryeong (기소령) and Jang Sung-Rak (장성락).",
     button:     "Contact Us",
     image:      "sl.jpg"
 }
